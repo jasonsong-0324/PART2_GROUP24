@@ -4,10 +4,10 @@
 
 No | ID         | Name                                | Task descriptions   | Contribution %
 -- | ---------- | ----------------------------------- | ------------------- | --------------
-1  | 1211104312 | Song Jia Jian                       | Feature 4, 5, 6     | 30
-2  | 1211104475 | Brett Yap V-Ron                     | Feature 1, 2, 3     | 30
-3  | 1221393795 | Ahmad Muhaimin Luqman Bin Husini    | Features 7,8        | 20
-4  | 1201103670 | Muhammad Amir Faris Bin Ahsan Nudin | Features 7,8        | 20
+1  | 1211104312 | Song Jia Jian                       | Features 4, 5, 6    | 30
+2  | 1211104475 | Brett Yap V-Ron                     | Features 1, 2, 3    | 30
+3  | 1221393795 | Ahmad Muhaimin Luqman Bin Husini    | Features 7, 8, 3    | 20
+4  | 1201103670 | Muhammad Amir Faris Bin Ahsan Nudin | Features 7, 8, 6    | 20
 
 
 ## B. Part 1 Feature Completion (Latest)
